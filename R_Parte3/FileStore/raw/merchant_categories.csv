@@ -1,0 +1,8 @@
+category,description,risk_level
+retail,Retail shops and department stores,medium
+restaurant,Restaurants and dining,low
+electronics,Electronics and appliance stores,high
+travel,Travel agencies and services,medium
+online,Online shopping platforms,high
+atm,ATM withdrawals and cash advances,very_high
+service,Service payments,low

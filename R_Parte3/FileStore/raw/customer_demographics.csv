@@ -1,0 +1,6 @@
+customer_id,age,gender,city,province,employment_status,time_at_address,time_at_employer
+C1234,35,M,Guayaquil,Guayas,employed,48,60
+C5678,42,F,Quito,Pichincha,employed,36,84
+C7890,28,M,Cuenca,Azuay,employed,24,36
+C8925,55,F,Quito,Pichincha,employed,120,180
+C9876,31,M,Guayaquil,Guayas,self_employed,60,72
